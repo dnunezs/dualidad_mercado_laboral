@@ -1,4 +1,4 @@
-# Evolución de las tasas de paro, contratos temporales y precariedad
+# Dualidad del mercado laboral español
 Descarga, limpieza, cálculo y visualización de las tasas de paro y contratos temporales con los datos del INE. 
 
 ## Descripción
@@ -7,4 +7,12 @@ Descarga, limpieza, cálculo y visualización de las tasas de paro y contratos t
 - Cálculo de las tasas de paro, contratos temporales y precaridad sobre la población activa
 - Visualización con ggplot2 de la evolución de las tasas.
 
+## Análisis
+Desde la generalización del contrato de trabajo temporal (1984), España se ha visto sumida en la dualización del mercado laboral llevando con ello a un alto grado precariedad hacia sus trabajadores. El trabajo temporal ha tratado de suplir el gran problema de nuestro país, el paro, pero lo único que ha conseguido ha sido crear una relación simbiótica entre paro y temporalidad. Esto ha dado unas altas tasas de trabajos temporales en periodos de bonanza económica, mientras que en situaciones de crisis se ha traducido en altas tasas de paro. El problema está ahí desde la transición y no se ha solucionado en ninguna de las reformas laborales. Es necesario buscar una solución real, que tiene que llevar consigo la creación de empleo, tanto en cantidad como en calidad, y si no es así, el número de empleos se derrumbará por sí solo en cada recesión económica.
 
+## Bibliografía recomendada
+- Doeringer, P. B., & Piore, M. J. (1985). Mercados internos de trabajo y análisis laboral. Madrid: Servicio de Publicaciones, Ministerio de Trabajo y seguridad Social. 
+- Lindbeck, A., & Snower, D. J. (1988). The insider-outsider theory of employment and unemployment. Cambridge, Mass: MIT Press. 
+- Piore, M. J. (1969). On-the-job training in the dual labor market: Public and private responsibilities in on-the-job training of disadvantaged workers. 
+- Polavieja, Javier G., (García de Polavieja, Javier), & University of Oxford,Department of Sociology. (2002). Temporary contracts and labour market segmentation in Spain: An   employment-rent approach. Oxford: University of Oxford, Department of Sociology
+- Rueda, D. (2007). Social democracy inside out: Partisanship and labor market policy in industrialized democracies. Oxford; New York: Oxford University Press. 
