@@ -10,7 +10,7 @@ Descarga, limpieza, cálculo y visualización de las tasas de paro y contratos t
 ## Análisis
 Desde la generalización del contrato de trabajo temporal (1984), España se ha visto sumida en la dualización del mercado laboral llevando con ello a un alto grado precariedad hacia sus trabajadores. El trabajo temporal ha tratado de suplir el gran problema de nuestro país, el paro, pero lo único que ha conseguido ha sido crear una relación simbiótica entre paro y temporalidad. Esto ha dado unas altas tasas de trabajos temporales en periodos de bonanza económica, mientras que en situaciones de crisis se ha traducido en altas tasas de paro. El problema está ahí desde la transición y no se ha solucionado en ninguna de las reformas laborales. Es necesario buscar una solución real, que tiene que llevar consigo la creación de empleo, tanto en cantidad como en calidad, y si no es así, el número de empleos se derrumbará por sí solo en cada recesión económica.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/dnunezs/dualidad_mercado_laboral/blob/main/Grafico%20paro%2C%20temporalidad%20y%20precaridad.png)
 
 ## Bibliografía recomendada
 - Doeringer, P. B., & Piore, M. J. (1985). Mercados internos de trabajo y análisis laboral. Madrid: Servicio de Publicaciones, Ministerio de Trabajo y seguridad Social. 
